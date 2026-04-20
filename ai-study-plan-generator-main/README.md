@@ -112,6 +112,4 @@ The system successfully generates personalized study plans using Generative AI. 
 
 ## Author & Contact
 
-**Name:** Ritansh Sharma
-**Email :** ritansh159@gmail.com
-[linkedin] (www.linkedin.com/in/ritansh-sharma-6a441b3b2)
+**Name:** Arpit Singh
